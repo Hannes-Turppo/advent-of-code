@@ -8,7 +8,7 @@
 
 #######################################
 # 1
-locations = open("../lists/locations.txt", "r")
+locations = open("lists/locations.txt", "r")
 
 # Define lists to store locations
 leftList = []
